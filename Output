@@ -1,0 +1,48 @@
+**************************************
+Retrieving the record for Tentacruel
+Mar 07, 2024 6:14:42 PM com.mongodb.internal.diagnostics.logging.Loggers shouldUseSLF4J
+WARNING: SLF4J not found on the classpath.  Logging is disabled for the 'org.mongodb.driver' component
+getting databasepokemon
+--------------------POKEMON INFO---------------------------
+Our little friend is Tentacruel whose type is water
+**************************************
+Retrieving the Pokemons whose type is  electric
+--------------------POKEMON INFO---------------------------
+Our little friend is Raichu whose type is electric
+--------------------POKEMON INFO---------------------------
+Our little friend is Magnemite whose type is electric
+--------------------POKEMON INFO---------------------------
+Our little friend is Magneton whose type is electric
+--------------------POKEMON INFO---------------------------
+Our little friend is Voltorb whose type is electric
+--------------------POKEMON INFO---------------------------
+Our little friend is Electrode whose type is electric
+--------------------POKEMON INFO---------------------------
+Our little friend is Electabuzz whose type is electric
+--------------------POKEMON INFO---------------------------
+Our little friend is Jolteon whose type is electric
+--------------------POKEMON INFO---------------------------
+Our little friend is Zapdos whose type is electric
+8 pokemons met the criteria
+**************************************
+Retrieving the Pokemons who have the bubble move and the water type
+--------------------POKEMON INFO---------------------------
+Our little friend is Squirtle whose type is water
+--------------------POKEMON INFO---------------------------
+Our little friend is Wartortle whose type is water
+--------------------POKEMON INFO---------------------------
+Our little friend is Blastoise whose type is water
+--------------------POKEMON INFO---------------------------
+Our little friend is Poliwag whose type is water
+--------------------POKEMON INFO---------------------------
+Our little friend is Krabby whose type is water
+--------------------POKEMON INFO---------------------------
+Our little friend is Horsea whose type is water
+--------------------POKEMON INFO---------------------------
+Our little friend is Seadra whose type is water
+7 pokemons met the criteria
+**************************************
+Retrieving Pokemons whose defense is greater than 75 and attack greater than 80
+--------------------POKEMON INFO---------------------------
+Our little friend is Pidgeot whose type is normal
+1 pokemons met the criteria
