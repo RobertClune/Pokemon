@@ -1,4 +1,4 @@
-This project was a homework that worked with Mongodb and java. It connect both java code to the database Pokemon on Mongodb. Below is an item in the database with all its Attributes.
+This project applied Mongodb and java. It connect both java code to the database Pokemon on Mongodb. Below is an item in the database with all its Attributes.
 
 Database example:
 {
